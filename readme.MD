@@ -1,3 +1,5 @@
+# Scrape SCOPUS to find top Researchers in your Area
+
 Before starting, you need to setup authentication for ([Scopus API](https://dev.elsevier.com/)):
 1. Get API key 
 2. Create a .env file copying the .env.example file and paste your API key in the .env file
